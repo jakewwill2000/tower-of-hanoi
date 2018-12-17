@@ -21,3 +21,4 @@ A:
 B: 5 4 3 2 1
 C:
 ```
+Printing each step of the process as it goes (it can only move a single disk at a time, with several other restrictions)
